@@ -1,4 +1,6 @@
-# expressjs middleware which renames file uploads to names based on hash of file content
+# upload to hash rename expressjs middleware
+
+This middleware renames file uploads to names based on hash of file content
 
 ## Usage
 

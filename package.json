@@ -1,7 +1,7 @@
 {
   "name": "upload-hash-name-middleware",
   "version": "0.1.0",
-  "description": "expressjs middleware which renames file uploads to names based on hash of file content",
+  "description": "upload to hash rename expressjs middleware",
   "author": "Oleg Korobenko <oleg.korobenko@gmail.com>",
   "repository": {
     "type": "git",
