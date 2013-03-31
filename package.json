@@ -1,0 +1,18 @@
+{
+  "name": "upload-hash-name-middleware",
+  "version": "0.1.0",
+  "description": "expressjs middleware which renames file uploads to names based on hash of file content",
+  "author": "Oleg Korobenko <oleg.korobenko@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/2do2go/upload-hash-name-middleware"
+  },
+  "keywords": [
+    "express", "file", "upload", "hash", "md5"
+  ],
+  "main": "./lib/hashFileUpload",
+  "engines": {
+    "node": ">= 0.4.0"
+  }
+}
+
